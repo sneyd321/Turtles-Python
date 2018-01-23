@@ -16,6 +16,7 @@ def createDialog(title, description):
             #prompt user again 
             continue
 
+
 def configTurtles():
     """Configure shape and colour of turtles"""
     mcLaren.shape("turtle")
